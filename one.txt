@@ -1,2 +1,10 @@
 i'm one
+<<<<<<< HEAD
 1
+=======
+<<<<<<< HEAD
+1123
+=======
+1
+>>>>>>> development
+>>>>>>> staging
