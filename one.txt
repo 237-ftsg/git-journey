@@ -1,2 +1,6 @@
 i'm one
+<<<<<<< HEAD
 1123
+=======
+1
+>>>>>>> development
